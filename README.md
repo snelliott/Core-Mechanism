@@ -11,4 +11,4 @@ We are currently pre-release.
 Stephen J. Klippenstein, Michael P. Burke, Sarah N. Elliott, Peter
 Glarborg, C. Franklin Goldsmith, Nils Hansen, Ahren W. Jasper,
 Nicole J. Labbe, Clayton R. Mulvihill, Branko Ruscic, Raghu
-Sivaramakrishnan, Yujie Tao,  Judit Zádor, James A. Miller
+Sivaramakrishnan, Yujie Tao, Judit Zádor, James A. Miller
